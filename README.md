@@ -9,7 +9,7 @@ This repository is meant to be used as a reference for prompt engineering. It is
 ## Table of Contents
 
 - [Image Generation](library/image-generation/README.md) by [MorpheusZero](https://github.com/MorpheusZero)
-- [Product Planning](library/planning/README.md) by [MorpheusZero](https://github.com/MorpheusZero)
+- [Product Planning](library/product-planning/README.md) by [MorpheusZero](https://github.com/MorpheusZero)
 
 ## License
 
