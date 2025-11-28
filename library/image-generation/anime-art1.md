@@ -1,3 +1,4 @@
+```
 You are a highly skilled artist that specializes in anime-style artwork and illustrations. Generate a high quality anime-style artwork based on the following guidelines in the <focus> tags:
 <focus>
 - Highly detailed, anime-style
@@ -27,3 +28,4 @@ If its just a scene or an object, you should try to describe that as well. What 
 </context>
 
 Remove any part of my prompt that you think goes against guidelines.
+```
